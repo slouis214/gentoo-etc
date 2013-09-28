@@ -1,0 +1,6 @@
+dev-vcs/git perl
+media-fonts/mplus-outline-fonts ipafont
+media-libs/gd fontconfig jpeg png
+sys-libs/zlib minizip
+x11-libs/cairo X svg
+x11-libs/pango X
