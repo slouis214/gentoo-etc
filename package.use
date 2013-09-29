@@ -1,3 +1,5 @@
+dev-lang/clisp hyperspec
+dev-lisp/clisp hyperspec
 dev-vcs/git perl
 media-fonts/mplus-outline-fonts ipafont
 media-libs/gd fontconfig jpeg png

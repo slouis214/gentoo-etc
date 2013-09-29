@@ -1,23 +1,16 @@
-# required by dev-haskell/cabal-install-1.18.0.1
-# required by cabal-install (argument)
-=dev-haskell/cabal-1.18.0 ~x86
-# required by dev-haskell/haskell-platform-2012.2.0.0
-# required by @selected
-# required by @world (argument)
-=dev-haskell/cabal-install-1.18.0.1 ~x86
-#required by dev-haskell/haskell-platform-2012.2.0.0, required by haskell-platform (argument)
-=dev-haskell/cgi-3001.1.8.4 ~x86
-# required by =dev-haskell/haddock-2.13.2-r1 (argument)
-=dev-haskell/haddock-2.13.2-r1 ~x86
-# required by haskell-platform (argument)
-=dev-haskell/haskell-platform-2013.2.0.0 ~x86
-# required by dev-haskell/haskell-platform-2013.2.0.0
-# required by haskell-platform (argument)
-=dev-haskell/unordered-containers-0.2.3.2 ~x86
-# required by @__auto_slot_operator_replace_installed__ (argument)
-=dev-lang/ghc-7.6.3-r1 ~x86
-
-=dev-lang/open-cobol-1.1 ~x86
 app-emacs/proofgeneral
-
-media-fonts/mplus-outline-fonts ~x86
+dev-haskell/cabal
+dev-haskell/cgi
+dev-haskell/haddock
+dev-haskell/haskell-platform
+dev-haskell/unordered-containers
+dev-lang/ghc
+dev-lang/io
+dev-lang/open-cobol
+dev-lang/scala
+media-fonts/mplus-outline-fonts 
+net-analyzer/libnasl
+net-analyzer/nessus
+net-analyzer/nessus-core
+net-analyzer/nessus-libraries
+net-analyzer/nessus-plugins
