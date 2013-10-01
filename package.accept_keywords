@@ -1,3 +1,4 @@
+app-admin/chef
 app-emacs/proofgeneral
 dev-haskell/cabal
 dev-haskell/cgi
@@ -8,6 +9,19 @@ dev-lang/ghc
 dev-lang/io
 dev-lang/open-cobol
 dev-lang/scala
+dev-ruby/bunny
+dev-ruby/ipaddress
+dev-ruby/mixlib-authentication
+dev-ruby/mixlib-cli
+dev-ruby/mixlib-config
+dev-ruby/mixlib-log
+dev-ruby/mixlib-shellout
+dev-ruby/moneta
+dev-ruby/net-ssh
+dev-ruby/net-ssh-multi
+dev-ruby/ohai
+dev-ruby/polyglot
+dev-ruby/treetop
 media-fonts/mplus-outline-fonts 
 net-analyzer/libnasl
 net-analyzer/nessus
