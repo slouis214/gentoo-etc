@@ -1,7 +1,35 @@
+app-i18n/uim anthy
+app-text/ghostscript-gpl cups
+dev-lang/scala -emacs
+dev-libs/libattica qt4
 dev-lisp/clisp hyperspec
+dev-python/PyQt4 X sql svg
+dev-qt/qtcore qt3support
+dev-qt/qtdeclarative qt3support
+dev-qt/qtgui qt3support
+dev-qt/qtopengl qt3support
+dev-qt/qtsql qt3support
+dev-ruby/json ruby_targets_ruby21
+dev-ruby/racc ruby_targets_ruby21
+dev-ruby/rake ruby_targets_ruby21
+dev-ruby/rdoc ruby_targets_ruby21
+dev-ruby/rubygems ruby_targets_ruby21
 dev-vcs/git perl
 media-fonts/mplus-outline-fonts ipafont
+media-gfx/imagemagick png
 media-libs/gd fontconfig jpeg png
+media-libs/imlib2 png
+media-plugins/gst-plugins-meta ogg vorbis
+sci-geosciences/grass -cxx
+sci-geosciences/qgis gps grass spatialite -python
+sci-libs/gdal geos -pdf -ruby spatialite
+sci-libs/geos -ruby
+sys-kernel/linux-firmware savedconfig
 sys-libs/zlib minizip
+www-servers/tomcat extra-webapps
 x11-libs/cairo X svg
 x11-libs/pango X
+x11-libs/qwt svg
+x11-libs/wxGTK tiff
+x11-terms/rxvt-unicode 256-color fading-colors pixbuf
+x11-terms/xterm toolbar
