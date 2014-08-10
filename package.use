@@ -1,4 +1,5 @@
 app-i18n/uim anthy
+app-laptop/tp_smapi hdaps
 app-text/ghostscript-gpl cups
 dev-lang/scala -emacs
 dev-libs/libattica qt4
@@ -21,7 +22,7 @@ media-libs/gd fontconfig jpeg png
 media-libs/imlib2 png
 media-plugins/gst-plugins-meta ogg vorbis
 sci-geosciences/grass -cxx
-sci-geosciences/qgis gps grass spatialite -python
+sci-geosciences/qgis gps grass -python spatialite
 sci-libs/gdal geos -pdf -ruby spatialite
 sci-libs/geos -ruby
 sys-kernel/linux-firmware savedconfig
